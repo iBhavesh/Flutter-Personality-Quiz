@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ca2bb14-0b7c-43fd-8bda-c4834259f628" name="Default Changelist" comment="" />
+    <list default="true" id="4ca2bb14-0b7c-43fd-8bda-c4834259f628" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +39,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="110" y="120" width="1146" height="492" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598700201201">
-      <screen x="0" y="0" width="1366" height="732" />
+    <state x="281" y="71" key="#Updates" timestamp="1611859429924">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="110" y="120" width="1146" height="492" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.732@0.0.1366.732" timestamp="1598700201201" />
-    <state x="362" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1598700509112">
-      <screen x="0" y="0" width="1366" height="732" />
+    <state x="281" y="71" key="#Updates/0.28.1366.740@0.28.1366.740" timestamp="1611859429924" />
+    <state x="362" y="214" key="com.intellij.ide.util.TipDialog" timestamp="1611859652253">
+      <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="362" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1598700509112" />
+    <state x="362" y="214" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1611859652253" />
   </component>
 </project>
